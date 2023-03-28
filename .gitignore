@@ -2,4 +2,9 @@ Intermediate
 DerivedDataCache
 .idea
 Saved
-Plugins
+Plugins/*
+!Plugins/YugEditorUtility
+!Plugins/YugPython
+!Plugins/SimpleUGC
+Binaries
+YugGAS.xcworkspace
